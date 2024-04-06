@@ -430,7 +430,7 @@ section {
   transition: ease-in-out 0.3s;
 }
 
-.facts .count-box a:hover {
+.facts .count-box a:hover { 
   color: #1f5297;
 }
 
@@ -439,7 +439,7 @@ section {
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
-  display: block;
+  display: block; 
   background: none;
   border-radius: 0;
 }
