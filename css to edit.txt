@@ -1,0 +1,4 @@
+.portfolio .portfolio-wrap .portfolio-links
+
+rgba(20, 157, 221, 0.95);
+  width: 100%;
