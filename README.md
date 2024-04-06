@@ -1,2 +1,2 @@
-# glennelle
-New portfolio and updated using bootstrap on GitHub
+
+[README.md](https://github.com/akosielye/glennelle/files/14895266/README.md)
